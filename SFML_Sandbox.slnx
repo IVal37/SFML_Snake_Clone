@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SFML_Sandbox.vcxproj" Id="44734430-79ee-4249-b9b3-d41aa4fde784">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+</Solution>
